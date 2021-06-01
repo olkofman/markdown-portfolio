@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is a liast of my fav things:
+- Long walks
+- Sleeping
+- Learning GitHub
