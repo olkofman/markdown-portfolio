@@ -1,4 +1,4 @@
-# Here is a liast of my fav things:
+# Here is a list of my fav things:
 - Long walks
 - Sleeping
 - Learning GitHub
